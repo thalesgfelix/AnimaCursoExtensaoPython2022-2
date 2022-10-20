@@ -6,8 +6,10 @@
 
 
 <table>
-<tr>- E aii galera, aqui quem vos fala é o Thales e vim, através desse projeto, exercer as atividades do curso de extensão.
+<tr>- "E aii galera, aqui quem vos fala é o Thales e vim, através desse projeto, exercer as atividades do curso de extensão."
 <table>
+<table>
+<table>  
 Repositório de exemplos e avaliativo do curso de extensão Python básico 2022/2
 
 ## Ferramentas Usadas
